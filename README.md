@@ -243,4 +243,3 @@ python3 -m pytest -q
 ## Ethical Use
 
 This project is for authorized lab testing, defensive learning, and portfolio demonstration. Do not run brute-force tools or authentication testing against systems you do not own or have explicit permission to assess.
-
