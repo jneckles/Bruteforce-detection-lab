@@ -1,0 +1,12 @@
+Apr  9 13:31:42 ubuntu sshd[1200]: Accepted password for analyst from 198.51.100.10 port 53120 ssh2
+Apr  9 13:32:00 ubuntu sshd[1201]: Failed password for invalid user admin from 192.0.2.44 port 44550 ssh2
+Apr  9 13:32:04 ubuntu sshd[1202]: Failed password for root from 192.0.2.44 port 44551 ssh2
+Apr  9 13:32:09 ubuntu sshd[1203]: Failed password for invalid user test from 192.0.2.44 port 44552 ssh2
+Apr  9 13:32:14 ubuntu sshd[1204]: Failed password for backup from 192.0.2.44 port 44553 ssh2
+Apr  9 13:32:19 ubuntu sshd[1205]: Failed password for ubuntu from 192.0.2.44 port 44554 ssh2
+Apr  9 13:32:27 ubuntu sshd[1206]: Accepted password for ubuntu from 192.0.2.44 port 44555 ssh2
+Apr  9 13:34:10 ubuntu sshd[1301]: Failed password for deploy from 203.0.113.8 port 51200 ssh2
+Apr  9 13:40:15 ubuntu sshd[1302]: Failed password for deploy from 203.0.113.8 port 51201 ssh2
+Apr  9 13:41:50 ubuntu sshd[1401]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.0.2.99 user=service
+Apr  9 13:45:00 ubuntu sshd[1501]: Disconnected from authenticating user guest 203.0.113.77 port 52000 [preauth]
+This malformed sample line should be ignored safely by the parser.
