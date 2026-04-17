@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Python-based SSH brute-force detection tool built for a student cybersecurity lab. It parses Linux authentication logs, identifies suspicious SSH login behavior, and produces analyst-friendly output in text, JSON, or CSV format.
+This project is a Python-based SSH brute-force detection tool built for a cybersecurity lab. It parses Linux authentication logs, identifies suspicious SSH login behavior, and produces analyst-friendly output in text, JSON, or CSV format.
 
 The goal of this project is to demonstrate practical entry-level SOC and detection engineering skills:
 
